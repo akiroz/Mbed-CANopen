@@ -3,40 +3,26 @@
 CANopen library for mbedOS 6.
 
 ### Features:
-- [ ] NMT master
-  - [ ] Module Control Service
-  - [ ] Error Control Services
+- [x] NMT master
+  - [x] Module Control Service
+  - [x] Error Control Service
     - [ ] Guarding
-    - [ ] Heartbeat
+    - [x] Heartbeat
 - [ ] NMT slave
-  - [ ] Module Control Service
-  - [ ] Error Control Services
-    - [ ] Guarding
-    - [ ] Heartbeat
-- [ ] SDO client
-  - [ ] Upload
-    - [ ] Expedited
+- [x] SDO client
+  - [x] Upload
+    - [x] Expedited
     - [ ] Segmented
-    - [ ] Block
-  - [ ] Download
-    - [ ] Expedited
+  - [x] Download
+    - [x] Expedited
     - [ ] Segmented
-    - [ ] Block
 - [ ] SDO server
-  - [ ] Upload
-    - [ ] Expedited
-    - [ ] Segmented
-    - [ ] Block
-  - [ ] Download
-    - [ ] Expedited
-    - [ ] Segmented
-    - [ ] Block
-- [ ] PDO producer
-  - [ ] Push
+- [x] PDO producer
+  - [x] Push
   - [ ] Pull
   - [ ] Sync
-- [ ] PDO consumer
-  - [ ] Push
+- [x] PDO consumer
+  - [x] Push
   - [ ] Pull
 - [ ] SYNC producer
 - [ ] SYNC consumer
